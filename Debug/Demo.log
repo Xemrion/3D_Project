@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\skolarbete\3dprog\project\main.cpp(386): warning C4244: 'initializing': conversion from 'clock_t' to 'float', possible loss of data
+c:\skolarbete\3dprog\project\main.cpp(430): warning C4244: '=': conversion from 'clock_t' to 'float', possible loss of data
+c:\skolarbete\3dprog\project\main.cpp(405): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.16299.0\ucrt\stdio.h(1772): note: see declaration of 'sprintf'
+  Demo.vcxproj -> C:\Skolarbete\3Dprog\Project\Debug\Demo.exe
