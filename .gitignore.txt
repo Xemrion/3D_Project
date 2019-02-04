@@ -1,7 +1,0 @@
-# directories
-.vs/
-Debug/
-Release/
-
-#Files
-*.user
