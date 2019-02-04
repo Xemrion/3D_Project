@@ -344,6 +344,8 @@ void SetViewport()
 	glViewport(0, 0, 640, 480);
 }
 
+
+
 void Render()
 {
 

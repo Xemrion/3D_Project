@@ -34,8 +34,6 @@ float cosAngle = max(0.0, dot(surfaceToCamera, reflectionVector));
 float specularCoefficient = pow(cosAngle, materialShininess);
 vec3 specular = specularCoefficient*  vec3(0.5f, 0.5f, 0.5f)  *vec3(1.0f, 1.0f, 1.0f);
 
-
-
 vec3 light = ambient*0.5f+diffuse*0.5f+specular*3.0f;
 #//////////////////////////////////////////////////////////
 

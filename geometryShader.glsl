@@ -52,6 +52,8 @@ void main()
 		}
 	  }
 	  EndPrimitive();
+	  
+
 
 	  for(int i=0; i<3; i++)
 	  {

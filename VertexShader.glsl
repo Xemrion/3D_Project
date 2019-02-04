@@ -4,6 +4,8 @@ layout(location = 1) in vec3 vertex_color;
 layout(location = 2) in vec2 texture_coord;
 layout(location = 3) in float OBJid;
 
+
+
 #//////////////////////////////////////////////////////////
 out vec3 color;
 out vec2 texture_coord_vert;
